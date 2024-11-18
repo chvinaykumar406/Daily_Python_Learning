@@ -1,0 +1,7 @@
+# xrange vs range
+# xrange create the numbers on the fly, where range create a list. xrange more memory friendly
+
+# only tuples can be used as keys for mapping type but not list
+
+#max_split string.split("-",maxsplit = 1)
+#string.isalpha()
