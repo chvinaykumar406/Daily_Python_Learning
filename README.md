@@ -1,1 +1,1 @@
-# Daily_Pyhton_Learning
+# Daily_Python_Learning
